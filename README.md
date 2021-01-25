@@ -11,7 +11,7 @@ I will apppreciate it.
 If interested in my comments and approach, please visith the
 associated post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/26/verifying-an-alien-dictionary/
 
 I will send / post a message on LeetCode and will update this
 post as needed.
